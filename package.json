@@ -1,0 +1,24 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "my first nodejs project",
+  "keywords": [
+    "node",
+    "js",
+    "es6"
+  ],
+  "license": "ISC",
+  "author": "Nikoloz jikhvadze",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon script.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-emoji": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
