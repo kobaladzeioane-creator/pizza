@@ -37,4 +37,4 @@
 
 1. გადმოწერეთ პროექტი თქვენს კომპიუტერში:
    ```bash
-   git clone [https://github.com/nikolozjikhvadze-bot/Omnifood.git](https://github.com/nikolozjikhvadze-bot/Omnifood.git)
+   git clone [https://github.com/nikolozjikhvadze-bot/Omnifood.git](https://github.com/ioanekobaladze-bot/Omnifood.git)
